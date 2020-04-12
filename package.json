@@ -1,0 +1,17 @@
+{
+  "name": "endbguide",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev guide",
+    "docs:build": "vuepress build guide"
+  },
+  "repository": "github:enhancex/endbguide",
+  "author": "chroventer (https://github.com/chroventer)",
+  "license": "MIT",
+  "bugs": "https://github.com/enhancex/endbguide/issues",
+  "homepage": "https://enhancex.github.io/endbguide",
+  "dependencies": {
+    "vuepress": "^1.4.0",
+    "vuepress-theme-yuu": "^2.2.1"
+  }
+}
