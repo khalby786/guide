@@ -20,7 +20,7 @@ jobs:
         if: success()
         uses: crazy-max/ghaction-github-pages@v1
         with:
-          build_dir: docs
+          build_dir: guide/.vuepress/dist
           commit_message: 'docs: build and deploy docs'
           keep_history: true
         env:
