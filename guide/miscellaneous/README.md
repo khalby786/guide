@@ -2,7 +2,9 @@
 
 Although Endb can be used in any scenario and any adapter due to its scalability and feature-rich functionality, we will be focusing on setting up a per-server prefix system using the SQLite provider.
 
-::tip This system can be implemented using any of the adapters supported by Endb.
+::: tip 
+This system can be implemented using any of the adapters supported by Endb.
+:::
 
 ## Initializing Endb
 
