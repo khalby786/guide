@@ -10,7 +10,10 @@ module.exports = {
     },
     {
       title: 'Miscellaneous Examples',
-      children: ['/miscellaneous/']
+      children: [
+        '/miscellaneous/',
+        '/points-system'
+      ]
     }
   ]
 };
