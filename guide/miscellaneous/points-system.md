@@ -2,7 +2,9 @@
 
 Endb is also useful for creating a points system using Discord.js for a Discord bot. In this example, we will be focusing on creating a points system for your Discord bot.
 
-::tip This system can be implemented using any of the adapters supported by Endb.
+::: tip 
+This system can be implemented using any of the adapters supported by Endb.
+:::
 
 ## Prequisites
 
